@@ -8,11 +8,16 @@ ai_ladder plugin
 ```
 openai chat地址:
 
-GPUStack   http://localhost/v1-openai/chat/completions
-deepseek   https://api.deepseek.com/chat/completions
-阿里云百炼   https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
-月之暗面     https://api.moonshot.cn/v1/chat/completions
-智谱        https://open.bigmodel.cn/api/paas/v4/chat/completions
+GPUStack:   
+        http://localhost/v1-openai/chat/completions
+DeepSeek:
+        https://api.deepseek.com/chat/completions
+阿里云百炼:
+        https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+月之暗面:
+        https://api.moonshot.cn/v1/chat/completions
+智谱:        
+        https://open.bigmodel.cn/api/paas/v4/chat/completions
 ```
 
   
