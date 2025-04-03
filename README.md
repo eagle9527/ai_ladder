@@ -22,7 +22,6 @@ ai_ladder plugin
 #### README(有GIF动图演示☺️☺️)
 ```
 https://github.com/eagle9527/ai_ladder/blob/main/README.md
-```
 
 ### 1.功能展示
 ### 功能 
