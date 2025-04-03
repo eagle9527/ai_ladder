@@ -3,11 +3,9 @@ ai_ladder plugin
 
 ### 插件能力
 ```
-1. 对接openai接口,多模型，推理及推理历史记录
-   目前已测试的大模型：
-   
-   openai chat地址:
-   
+该插件全面兼容OpenAI接口标准，无缝对接GPUStack、DeepSeek、阿里云百炼、月之暗面、智谱等业界领先的AI计算平台。
+
+   目前已测试的大模型， openai chat地址:
    GPUStack:    http://localhost/v1-openai/chat/completions
    DeepSeek:    https://api.deepseek.com/chat/completions
    阿里云百炼:    https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
