@@ -11,6 +11,7 @@ ai_ladder plugin
    阿里云百炼:    https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
    月之暗面:      https://api.moonshot.cn/v1/chat/completions
    智谱:         https://open.bigmodel.cn/api/paas/v4/chat/completions
+   chatgpt:     https://api.openai.com/v1/chat/completions
 
 ```
   
