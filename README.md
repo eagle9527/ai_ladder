@@ -26,5 +26,9 @@ https://github.com/eagle9527/ai_ladder/blob/main/README.md
 
 ### 1.功能展示
 ### 功能 
+![问答](https://github.com/eagle9527/ai_ladder/blob/main/chart.png?raw=true)
+![模型](https://github.com/eagle9527/ai_ladder/blob/main/models.png?raw=true)
+![历史](https://github.com/eagle9527/ai_ladder/blob/main/history.png?raw=true)
 
 ### 动态演示
+![演示](https://github.com/eagle9527/ai_ladder/blob/main/yanshi.gif?raw=true)
