@@ -14,6 +14,7 @@ ai_ladder plugin
    chatgpt:      https://api.openai.com/v1/chat/completions
    腾讯元宝:       https://api.hunyuan.cloud.tencent.com/v1/chat/completions
    字节豆包:      https://ark.cn-beijing.volces.com/api/v3/chat/completions
+   百川大模型:     https://api.baichuan-ai.com/v1/chat/completions
 
 
 ```
