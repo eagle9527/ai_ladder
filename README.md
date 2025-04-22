@@ -15,6 +15,7 @@ ai_ladder plugin
    腾讯元宝:       https://api.hunyuan.cloud.tencent.com/v1/chat/completions
    字节豆包:      https://ark.cn-beijing.volces.com/api/v3/chat/completions
    百川大模型:     https://api.baichuan-ai.com/v1/chat/completions
+   本地Ollama模型:  http://localhost:11434/v1/chat/completions
 
 
 ```
