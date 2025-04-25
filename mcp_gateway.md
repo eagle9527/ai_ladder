@@ -23,7 +23,7 @@ https://plugin.gin-vue-admin.com/#/layout/newPluginInfo?id=106
 #### README(有GIF动图演示☺️☺️)
 ```
 https://github.com/eagle9527/ai_ladder/blob/main/mcp_gateway.md
-
+```
 ### 1.功能展示
 ### 功能 
 ![工具列表](https://github.com/eagle9527/ai_ladder/blob/main/tools.png?raw=true)
