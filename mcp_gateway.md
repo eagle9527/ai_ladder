@@ -13,6 +13,11 @@ https://plugin.gin-vue-admin.com/#/layout/newPluginInfo?id=106
 ```
   
 ```
+### Streamable HTTP 请求地址
+```
+http://127.0.0.1:8081/mcp
+```
+
 ### 该插件支持一键导入
 
 #### README(有GIF动图演示☺️☺️)
