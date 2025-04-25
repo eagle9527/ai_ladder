@@ -18,6 +18,11 @@ https://plugin.gin-vue-admin.com/#/layout/newPluginInfo?id=106
   http://127.0.0.1:8081/mcp
 ```
 
+### go-mcp 用最新版本
+```
+go get github.com/ThinkInAIXYZ/go-mcp@v0.2.0
+```
+
 ### 该插件支持一键导入
 
 #### README(有GIF动图演示☺️☺️)
