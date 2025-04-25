@@ -11,9 +11,8 @@ https://plugin.gin-vue-admin.com/#/layout/newPluginInfo?id=106
 2.实现mcp server 对第三方API 的调用。
 3.实现mcp server 工具动态注册/销毁。
 ```
-  
-```
-### Streamable HTTP 请求地址
+
+###  Streamable HTTP 请求地址
 
 ```
   http://127.0.0.1:8081/mcp
