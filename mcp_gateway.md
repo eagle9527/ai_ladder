@@ -1,6 +1,10 @@
 # mcp_gateway
 mcp_gateway 
 
+###  ai_ladder  插件地址： 
+```
+https://plugin.gin-vue-admin.com/#/layout/newPluginInfo?id=106
+```
 ### 插件能力
 ```
 1.支持对接插件 ai_ladder plugin，支持 第三方 mcp 客户端调用。
