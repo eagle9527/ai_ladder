@@ -22,6 +22,6 @@ https://github.com/eagle9527/ai_ladder/blob/main/mcp_gateway.md
 ### 1.功能展示
 ### 功能 
 ![工具列表](https://github.com/eagle9527/ai_ladder/blob/main/tools.png?raw=true)
-![工具详情](https://github.com/eagle9527/ai_ladder/blob/main/models.png?raw=true)
+![工具详情](https://github.com/eagle9527/ai_ladder/blob/main/tool_defail.png?raw=true)
 ![ai_ladder_mcp_gateway调用](https://github.com/eagle9527/ai_ladder/blob/main/ai_ladder_mcp_gateway.png?raw=true)
 ![第三方mcp客户端调用](https://github.com/eagle9527/ai_ladder/blob/main/CherryStudio_mcp_gateway.png?raw=true)
