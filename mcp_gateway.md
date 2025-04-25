@@ -31,4 +31,6 @@ https://github.com/eagle9527/ai_ladder/blob/main/mcp_gateway.md
 ![ai_ladder_mcp_gateway调用](https://github.com/eagle9527/ai_ladder/blob/main/ai_ladder_mcp_gateway.png?raw=true)
 ![第三方mcp客户端调用](https://github.com/eagle9527/ai_ladder/blob/main/CherryStudio_mcp_gateway.png?raw=true)
 ![第三方mcp客户端配置](https://github.com/eagle9527/ai_ladder/blob/main/ide_client.png?raw=true)
+![Cherry Studio 客户端对话](https://github.com/eagle9527/ai_ladder/blob/main/ide_chart.png?raw=true)
+
 
