@@ -134,7 +134,7 @@ networks:
  插件核心能力：
 ###  1. 知识内容向量化存储
 ```
-支持上传 文本（txt、docx、pptx） 文件, 图片文件；
+支持上传 文本（txt、docx、pptx） 文件, 图片文件(jpeg、png、gif、webp、bmp、tiff、x-icon)；
 自动提取文本内容，并通过本地或远程 Embedding 模型（如OpenAI, Nomic, DeepSeek 等）转为向量；
 将文本切片并存入 Milvus 向量数据库，实现高效语义检索；
 ```
