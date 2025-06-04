@@ -124,7 +124,7 @@ networks:
 
 ### 功能展示
 ### 功能 
-![图片向量化搜索](https://github.com/eagle9527/ai_ladder/blob/main/image-search.png.png?raw=true)
+![图片向量化搜索](https://github.com/eagle9527/ai_ladder/blob/main/image-search.png?raw=true)
 
 ![问答](https://github.com/eagle9527/ai_ladder/blob/main/knowledge_chart.png?raw=true)
 ![向量检索](https://github.com/eagle9527/ai_ladder/blob/main/search.png?raw=true)
