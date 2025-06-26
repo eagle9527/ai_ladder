@@ -114,7 +114,22 @@ https://github.com/eagle9527/ai_ladder/blob/main/README.md
 
 ### 1.功能展示
 ### 功能 
-![Chatflow](https://imgloc.com/image/RhbRh)
+[![Rh2u9.md.png](https://i.imgs.ovh/2025/06/26/Rh2u9.md.png)](https://imgloc.com/image/Rh2u9)
+[![RhnQm.md.png](https://i.imgs.ovh/2025/06/26/RhnQm.md.png)](https://imgloc.com/image/RhnQm)
+[![RhWUF.md.png](https://i.imgs.ovh/2025/06/26/RhWUF.md.png)](https://imgloc.com/image/RhWUF)
+[![RhP3Q.md.png](https://i.imgs.ovh/2025/06/26/RhP3Q.md.png)](https://imgloc.com/image/RhP3Q)
+[![RhMYX.md.png](https://i.imgs.ovh/2025/06/26/RhMYX.md.png)](https://imgloc.com/image/RhMYX)
+[![RhDgU.md.png](https://i.imgs.ovh/2025/06/26/RhDgU.md.png)](https://imgloc.com/image/RhDgU)
+[![Rh9yH.md.png](https://i.imgs.ovh/2025/06/26/Rh9yH.md.png)](https://imgloc.com/image/Rh9yH)
+[![RhetN.md.png](https://i.imgs.ovh/2025/06/26/RhetN.md.png)](https://imgloc.com/image/RhetN)
+[![Rh8eA.md.png](https://i.imgs.ovh/2025/06/26/Rh8eA.md.png)](https://imgloc.com/image/Rh8eA)
+[![Rh6f4.md.png](https://i.imgs.ovh/2025/06/26/Rh6f4.md.png)](https://imgloc.com/image/Rh6f4)
+[![RhquC.md.png](https://i.imgs.ovh/2025/06/26/RhquC.md.png)](https://imgloc.com/image/RhquC)
+[![RhkQq.md.png](https://i.imgs.ovh/2025/06/26/RhkQq.md.png)](https://imgloc.com/image/RhkQq)
+[![RhgTt.md.png](https://i.imgs.ovh/2025/06/26/RhgTt.md.png)](https://imgloc.com/image/RhgTt)
+[![RhA3a.md.png](https://i.imgs.ovh/2025/06/26/RhA3a.md.png)](https://imgloc.com/image/RhA3a)
+[![RhzYe.md.png](https://i.imgs.ovh/2025/06/26/RhzYe.md.png)](https://imgloc.com/image/RhzYe)
+[![RhbRh.md.png](https://i.imgs.ovh/2025/06/26/RhbRh.md.png)](https://imgloc.com/image/RhbRh)
 ![Chatflow](https://github.com/eagle9527/ai_ladder/blob/main/Chatflow.png?raw=true)
 ![文本生成](https://github.com/eagle9527/ai_ladder/blob/main/completionmessages.png?raw=true)
 ![工作流](https://github.com/eagle9527/ai_ladder/blob/main/workflow.png?raw=true)
