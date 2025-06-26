@@ -114,18 +114,18 @@ https://github.com/eagle9527/ai_ladder/blob/main/README.md
 
 ### 1.功能展示
 ### 功能 
-[![Chatflow](https://i.imgs.ovh/2025/06/26/RhA3a.md.png)](https://i.imgs.ovh/2025/06/26/RhA3a.md.png)
+[![Chatflow](https://i.imgs.ovh/2025/06/26/RhA3a.png)](https://i.imgs.ovh/2025/06/26/RhA3a.png)
 
-[![文本生成](https://i.imgs.ovh/2025/06/26/RhkQq.md.png)](https://i.imgs.ovh/2025/06/26/RhkQq.md.png)
+[![文本生成](https://i.imgs.ovh/2025/06/26/RhkQq.png)](https://i.imgs.ovh/2025/06/26/RhkQq.png)
 
 [![工作流](https://i.imgs.ovh/2025/06/26/Rh2u9.png)](https://i.imgs.ovh/2025/06/26/Rh2u9.png)
 
 
-[![问答](https://i.imgs.ovh/2025/06/26/Rh9yH.md.png)](https://i.imgs.ovh/2025/06/26/Rh9yH.md.png)
+[![问答](https://i.imgs.ovh/2025/06/26/Rh9yH.png)](https://i.imgs.ovh/2025/06/26/Rh9yH.png)
 
-[![模型](https://i.imgs.ovh/2025/06/26/RhMYX.md.png)](https://i.imgs.ovh/2025/06/26/RhMYX.md.png)
+[![模型](https://i.imgs.ovh/2025/06/26/RhMYX.png)](https://i.imgs.ovh/2025/06/26/RhMYX.png)
 
-[![历史](https://i.imgs.ovh/2025/06/26/Rh6f4.md.png)](https://i.imgs.ovh/2025/06/26/Rh6f4.md.png)
+[![历史](https://i.imgs.ovh/2025/06/26/Rh6f4.png)](https://i.imgs.ovh/2025/06/26/Rh6f4.png)
 
 ### 动态演示
 ![演示](https://github.com/eagle9527/ai_ladder/blob/main/yanshi.gif?raw=true)
