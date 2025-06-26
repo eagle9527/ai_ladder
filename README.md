@@ -1,4 +1,4 @@
-![QQ_1750920676263](https://github.com/user-attachments/assets/4eb707d5-386f-4c17-b092-a68c9a862df8)# ai_ladder
+# ai_ladder
 ai_ladder plugin
 
 ```
