@@ -123,6 +123,8 @@ https://github.com/eagle9527/ai_ladder/blob/main/README.md
 
 [![问答](https://i.imgs.ovh/2025/06/26/Rh9yH.png)](https://i.imgs.ovh/2025/06/26/Rh9yH.png)
 
+[![模型创建](https://i.imgs.ovh/2025/06/26/RubgO.png)](https://i.imgs.ovh/2025/06/26/RubgO.png)
+
 [![模型](https://i.imgs.ovh/2025/06/26/RhMYX.png)](https://i.imgs.ovh/2025/06/26/RhMYX.png)
 
 [![历史](https://i.imgs.ovh/2025/06/26/Rh6f4.png)](https://i.imgs.ovh/2025/06/26/Rh6f4.png)
