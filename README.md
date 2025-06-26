@@ -118,7 +118,7 @@ https://github.com/eagle9527/ai_ladder/blob/main/README.md
 
 [![文本生成](https://i.imgs.ovh/2025/06/26/RhkQq.md.png)](https://i.imgs.ovh/2025/06/26/RhkQq.md.png)
 
-[![工作流](https://i.imgs.ovh/2025/06/26/Rh2u9.md.png)](https://i.imgs.ovh/2025/06/26/Rh2u9.md.png)
+[![工作流](https://i.imgs.ovh/2025/06/26/Rh2u9.png)](https://i.imgs.ovh/2025/06/26/Rh2u9.png)
 
 
 [![问答](https://i.imgs.ovh/2025/06/26/Rh9yH.md.png)](https://i.imgs.ovh/2025/06/26/Rh9yH.md.png)
@@ -129,3 +129,5 @@ https://github.com/eagle9527/ai_ladder/blob/main/README.md
 
 ### 动态演示
 ![演示](https://github.com/eagle9527/ai_ladder/blob/main/yanshi.gif?raw=true)
+
+ 
