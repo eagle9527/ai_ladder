@@ -114,6 +114,7 @@ https://github.com/eagle9527/ai_ladder/blob/main/README.md
 
 ### 1.功能展示
 ### 功能 
+![Chatflow](https://imgloc.com/image/RhbRh)
 ![Chatflow](https://github.com/eagle9527/ai_ladder/blob/main/Chatflow.png?raw=true)
 ![文本生成](https://github.com/eagle9527/ai_ladder/blob/main/completionmessages.png?raw=true)
 ![工作流](https://github.com/eagle9527/ai_ladder/blob/main/workflow.png?raw=true)
