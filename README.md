@@ -112,8 +112,8 @@ ai_ladder:
    目前已测试的大模型， openai chat地址:
    GPUStack:    http://localhost/v1-openai/chat/completions
    DeepSeek:    https://api.deepseek.com/chat/completions
-   阿里云百炼:    https:/[![RhMYX.md.png](https://i.imgs.ovh/2025/06/26/RhMYX.md.png)](https://imgloc.com/image/RhMYX)/dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
-   月之暗面:     https://api.moonshot.cn/v1/chat/completions
+   阿里云百炼:    https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+   月之暗面:      https://api.moonshot.cn/v1/chat/completions
    智谱:         https://open.bigmodel.cn/api/paas/v4/chat/completions
    chatgpt:      https://api.openai.com/v1/chat/completions
    腾讯元宝:       https://api.hunyuan.cloud.tencent.com/v1/chat/completions
