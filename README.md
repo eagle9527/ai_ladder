@@ -1,3 +1,23 @@
+插件地址：🔗   https://plugin.gin-vue-admin.com/details/106
+
+全新升级的 AI 对接插件，全面支持 OpenAI 标准协议，一键连接 GPUStack、DeepSeek、阿里云百炼、智谱、月之暗面等顶级大模型平台，轻松打造强大的智能应用！
+
+✨ 核心亮点
+✅ 即插即用：全面兼容 OpenAI 接口标准，无需额外适配
+✅ 多平台支持：原生支持 GPUStack、DeepSeek、阿里云百炼、智谱、月之暗面
+✅ 强力集成 Dify 智能体：支持 Chatflow、Agent、聊天助手、文本生成等智能模式
+✅ 灵活参数输入：支持 input、number、paragraph 类型，满足多样化场景
+✅ 🔥 新增功能：支持 Dify 问答知识库图文混排显示，文本与图片完美融合，知识更直观、更生动！
+
+🎯 应用场景
+企业 AI 助手构建
+
+个性化智能工作流自动化
+
+智能问答、知识检索、内容生成
+
+🎉 立即体验插件的全新能力，释放你的 AI 创造力，驱动业务智能化升级！
+
 # ai_ladder
 ai_ladder plugin
 
